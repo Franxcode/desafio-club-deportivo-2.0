@@ -1,0 +1,7 @@
+{
+	"deportes": [
+		{ "nombre": "asd", "precio": "123" },
+		{ "nombre": "Karate2", "precio": "9999" },
+		{ "nombre": "Karate", "precio": "9999" }
+	]
+}
